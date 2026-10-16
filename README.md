@@ -109,6 +109,3 @@ python python/outlier_analysis.py general_stroke_scores.txt pure_aphasia_scores.
 PC3), the scores used for Figure 2. Distances are computed with the covariance of the General
 Stroke Cohort, and the cutoff is the 95th percentile of that cohort's own distances.
 
-## License
-
-Add a license file before making the repository public (for example MIT).
